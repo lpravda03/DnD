@@ -1,0 +1,1 @@
+eb322fb04e3799171d1f1aafdbcdfc857880f13f#{"index":"^!us9alg08faa8fng9;;#00FF0000;1607622871;;#FFFFFFFF;181;;{\"reminder\":0};***"}{[!*|@]}{}{[!*|@]}{"_us9alg08faa8fng9":"***\ntemplate\n***\nname:\nhasRace:\nrace:\nhasHealth:\nhealth:\nhasAtt:\natt:\nattType:\n.attack()\nhasDefn:\ndefn:\ndefnType:\n.defend()\nhasSpeed:\nspeed\n.run()\nhasCost:\ncost:\n.buy()\n.sell()\nlvl:"}
