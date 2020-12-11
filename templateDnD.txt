@@ -20,5 +20,5 @@ hasCost:
 cost:
 .buy()
 .sell()
-spawnCount():
+spawnCount:
 lvl: 
